@@ -63,6 +63,11 @@ Run 'pip3 install -r requirements.txt' to install all dependencies
 4. Follow what the tool tells you to do
 5. Profit?
 -----------------
+[Block Update for iOS](https://betaprofiles.com/)
+
+[Video](https://www.youtube.com/watch?v=JuKT1-ju3bI)
+
+
 # F.A.Q
 ### How do I use this tool?
 If you have a 64 Bit device (iPhone 5s, iPad Mini 2, iPad Air) then just connect your device in DFU mode and run the tool, if you have a 32 Bit device then just connect the device in Normal mode, NOT DFU MODE, and run the tool!
